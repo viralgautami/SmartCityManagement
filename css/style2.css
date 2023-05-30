@@ -1,0 +1,110 @@
+html{
+	position: relative;
+	min-height: 100%;
+}
+*{
+	margin : 0;
+	padding: 0;
+}
+.nav-brand-style{
+	font-weight: 400;
+	line-height: 1.5;
+	font-size: 1.2rem;
+}
+#mynav{
+	background-color: #563d7c;
+}
+#navbarResponsive ul li a{
+	color: white;
+	font-weight: 600;
+	font-size: 1.2rem;
+}
+#navbarResponsive ul li a:hover{
+	color: lightgray;
+}
+#myTab{
+	margin-top: 90px;
+}
+.myTab-st{
+	align-content: center;
+	width: 50%;
+	margin-left: 400px;
+}
+#home{
+	border-radius: 2%;
+	background-color: #f5f6fa;
+	height: 250px;
+	border-bottom: 1px lightgray solid;
+	border-right:  1px lightgray solid;
+	border-left: 1px lightgray solid;
+}
+.nav-link{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.sign-st{
+
+	width: 300px;
+	margin-left: 100px;
+	margin-bottom: 25px;	
+	border-radius: 5px;
+	border:1px lightgray solid;
+	height: 30px;
+	text-align: center;
+}
+.sign-st1{ 
+	margin-top: 0px; 
+	width: 150px; 
+	margin-left: 160px;
+}
+#profile{
+	background-color: #f5f6fa;
+	border-bottom: 1px lightgray solid;
+	border-right:  1px lightgray solid;
+	border-left: 1px lightgray solid;
+	border-radius: 2%;
+	height: 530px;
+}
+.rg-in{
+	border:1px lightgray solid;
+	margin-left: 45px;
+	width: 450px;
+	margin-bottom: 15px;
+	height: 30px;
+	border-radius: 5px;
+}
+.reg-form{
+	margin-left: 45px;
+}
+.sign-st2{
+	margin-top: 0px; 
+	width: 450px; 
+	margin-left: 45px;	
+}
+#contact{
+	background-color: #f5f6fa;
+	border-bottom: 1px lightgray solid;
+	border-right:  1px lightgray solid;
+	border-left: 1px lightgray solid;
+	border-radius: 2%;
+	height: 360px;
+}
+.footer-fixed p{
+	margin-bottom: 0;
+}
+.footer-fixed{
+	padding-top: 25px;
+	position: absolute;
+    bottom: 1px;
+    left: 0;
+    right: 0;
+    height:80px;
+    background:#ccc;
+    text-align: center;
+    border-top: 2px #30336b solid;
+    color: black;
+}
+#myTabContent{
+	margin-bottom: 150px;
+}
